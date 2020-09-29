@@ -1,4 +1,4 @@
-# Password-Manager
+# Simple-Password-Manager
 Terminal Password Manager made in java
 
 Stores passwords in an ecrypted file using AES 256bit encryption, and allows the password list to be edited and viewed.
